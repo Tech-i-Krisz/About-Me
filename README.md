@@ -4,8 +4,6 @@ Hello! As a young CS student, I am dedicated in learning various programming lan
 
 Powerful languages currently learning:
 <p>
-  <img alt="HIML" src="https://img.shields.io/badge/HIML-E34F26?logo=html5&logoColor=-white&style-flat"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
-
-
